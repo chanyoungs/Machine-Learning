@@ -1,2 +1,5 @@
-# Machine-Learning
-Notes and personal attempts at implementing various machine learning models
+# Solving MNIST using various ML libraries
+- NumPy: Custom implementation of neural network based on NumPy
+- Keras
+- Tensorflow
+- Pytorch
